@@ -1,3 +1,11 @@
+# 🥭 TagMango X React-native-modal
+This fork is created to solve primarily one problem with the existing version of react-native-modal.
+If you have an android phone with a notch/teardrop/punchhole display, the fullscreen backdrop doesn't fill the entire screen.
+
+We fixed it by using the `Dimension` of `screen` instead of `window`. 🤷‍♀️
+
+---
+
 🚧 We're looking for maintainers and contributors! See [#414](https://github.com/react-native-community/react-native-modal/issues/414)
 
 <br />
